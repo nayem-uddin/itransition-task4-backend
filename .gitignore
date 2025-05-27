@@ -1,1 +1,3 @@
 connectDB.js
+.env
+node_modules
